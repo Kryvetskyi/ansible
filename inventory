@@ -1,2 +1,2 @@
-kryvetskyi@192.168.56.100
-kryvetskyi@192.168.56.101
+kryvetskyi@192.168.56.100 apache_package=apache python_package=python3 php_package=libapache-mod-php tomcat_package=tomcat
+kryvetskyi@192.168.56.101 apache_package=apache python_package=python3 php_package=libapache-mod-php tomcat_package=tomcat
